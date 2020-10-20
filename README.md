@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/temesghentekeste/archived-apple-clone/homepage/index.html)
+[Live Demo Link](https://rawcdn.githack.com/biniamtekeste/EriCoderWebFundamentals/95f4b618de54dfe95be1fc3499ad0a822dbeaeca/index.html)
 
 ## Getting Started
 
