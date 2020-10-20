@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+main {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+#title {
+  text-align: center;
+  background: #eee;
+  padding: 2.5rem 1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+
+#img-div {
+  max-width: 80%;
+  text-align: center;
+  height: auto;
+  margin: auto;
+}
+
+@media (max-width: 500px) {
+  img {
+    max-width: 85%;
+    height: auto;
+  }
+}
