@@ -30,6 +30,9 @@ main {
 }
 
 @media (max-width: 500px) {
+  body {
+    margin: 0 1rem;
+  }
   img {
     max-width: 85%;
     height: auto;
