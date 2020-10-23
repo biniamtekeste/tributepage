@@ -29,6 +29,32 @@ main {
   margin: auto;
 }
 
+.top {
+  display: inline-block;
+  padding: 8px 10px;
+  background: #34e;
+  color: #fff;
+  border-radius: 50%;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all .2s ease-in-out;
+}
+
+.top:hover { 
+  transform: scale(1.1);
+ }
+
+footer {
+  margin-top: 2rem;
+  background-color: #333333;
+  padding: 30px;
+}
+
+footer p {
+  text-align: center;
+  color: white;
+}
+
 @media (max-width: 500px) {
   body {
     margin: 0 1rem;
