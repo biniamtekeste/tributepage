@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Github: [@biniamtekeste](https://github.com/biniamtekeste)
 - Twitter: [@binisuccess](https://twitter.com/binisuccess)
-- Linkedin: [linkedin]()
+- Linkedin: [linkedin](https://www.linkedin.com/in/biniam-bahta-4768b8173/)
 
 ## Show your support
 
